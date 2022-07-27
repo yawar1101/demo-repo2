@@ -5,4 +5,4 @@ It is a long established fact that a reader will be distracted by the readable c
 ## Local Development
 
 1. Open index.html in your browser.
-
+2. Ace it.
